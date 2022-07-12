@@ -130,3 +130,12 @@ table {
   background-color: #444444;
   color: white;
 }
+.App .container {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  padding: 8px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 8px;
+}
