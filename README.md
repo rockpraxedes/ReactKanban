@@ -1,2 +1,2 @@
-# ReactKanban
-Created with CodeSandbox
+# ReactClass
+Link para acessar o site https://kxdswb.csb.app/
